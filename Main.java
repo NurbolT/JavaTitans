@@ -46,3 +46,12 @@ public class ItemController {
         return "redirect:/";
 
     }
+
+
+public class classExample{
+	String name;
+	String surname;
+	int age;
+	String email;
+	double gpa;
+}
